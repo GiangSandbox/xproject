@@ -32,6 +32,13 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
