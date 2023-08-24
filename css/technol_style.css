@@ -736,7 +736,7 @@ img {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-270404.jpg") fixed center center;
+ /* background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-270404.jpg") fixed center center;*/
   background-size: cover;
   padding: 120px 0;
 }
